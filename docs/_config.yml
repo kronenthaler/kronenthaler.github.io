@@ -1,6 +1,8 @@
 theme: minima
 
 title: Kronenthaler's dumpster
+author:
+  name: Ignacio Calderon
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome to the dumpster. Some man's trash can be another man's treasure.
   I will dump my thought here, feel free to pick any gem you find in there.
