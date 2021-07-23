@@ -2,7 +2,8 @@ theme: minima
 
 title: Kronenthaler's dumpster
 author:
-  name: Ignacio Calderon
+  name: "Ignacio Calderon"
+
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome to the dumpster. Some man's trash can be another man's treasure.
   I will dump my thought here, feel free to pick any gem you find in there.
@@ -11,4 +12,10 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # minima plugins
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  social_links:
+    twitter: kronenthaler
+    github: kronenthaler
