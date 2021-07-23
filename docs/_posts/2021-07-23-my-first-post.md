@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "POST TITLE"
 date: 2021-07-23 12:03:00 +0100
 ---
