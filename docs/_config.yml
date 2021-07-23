@@ -1,9 +1,6 @@
 theme: minima
 
 title: Kronenthaler's dumpster
-author:
-  name: kronenthaler
-  email: kronenthaler@gmail.com
 #description: > # this means to ignore newlines until "show_excerpts:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -11,14 +8,6 @@ author:
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  social_links:
-    twitter: kronenthaler
-    github:  kronenthaler
-
 # minima plugins
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
